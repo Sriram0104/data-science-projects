@@ -1,0 +1,38 @@
+# ⚽ FIFA 20 Player Clustering (K-Means)
+
+This is an unsupervised machine learning project where FIFA 20 players are grouped using K-Means clustering.
+
+---
+
+## 📌 Objectives
+- Perform player segmentation  
+- Analyze player attributes  
+- Apply clustering for insights  
+
+---
+
+## 🛠️ Technologies
+- Python  
+- Scikit-learn  
+- Pandas, NumPy  
+- Matplotlib  
+
+---
+
+## 🚀 Steps Performed
+1. Data loading and cleaning  
+2. Feature selection  
+3. Feature scaling  
+4. Choosing K using elbow method  
+5. Applying K-Means  
+
+---
+
+## 📊 Results
+- Players grouped into similar ability groups  
+- Clusters provide valuable scouting-level insights  
+
+---
+
+## ▶️ How to Run
+Open: `fifa20_clustering.ipynb`  
