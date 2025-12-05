@@ -1,0 +1,38 @@
+# 🔢 Handwritten Digit Recognition (MNIST CNN)
+
+A deep learning model that classifies handwritten digits (0–9) using the MNIST dataset.
+
+---
+
+## 📌 Objectives
+- Build CNN model  
+- Train on MNIST dataset  
+- Achieve high classification accuracy  
+
+---
+
+## 🛠️ Technologies
+- Python  
+- TensorFlow / Keras  
+- NumPy  
+- Matplotlib  
+
+---
+
+## 🚀 Steps Performed
+1. Load MNIST dataset  
+2. Normalize images  
+3. Build CNN architecture  
+4. Train model  
+5. Evaluate accuracy  
+
+---
+
+## 📊 Results
+- High accuracy on test dataset  
+- Model can classify handwritten digits effectively  
+
+---
+
+## ▶️ How to Run
+Open: `mnist_cnn.ipynb`  
