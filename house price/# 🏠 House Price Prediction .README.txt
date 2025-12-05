@@ -1,0 +1,40 @@
+# 🏠 House Price Prediction (Regression)
+
+This project predicts house prices using machine learning regression algorithms.
+
+---
+
+## 📌 Objectives
+- Analyze property features  
+- Build regression models  
+- Compare model performance  
+
+---
+
+## 🛠️ Technologies
+- Python  
+- Scikit-learn  
+- Pandas, NumPy  
+- Matplotlib  
+
+---
+
+## 🚀 Steps Performed
+1. Exploratory Data Analysis  
+2. Feature engineering  
+3. Model training using:
+   - Linear Regression  
+   - Ridge / Lasso  
+   - Random Forest Regressor  
+4. Performance evaluation  
+
+---
+
+## 📊 Results
+- Regression model predicts prices with strong accuracy  
+- Feature importance discovered  
+
+---
+
+## ▶️ How to Run
+Open: `house_price_prediction.ipynb`  
